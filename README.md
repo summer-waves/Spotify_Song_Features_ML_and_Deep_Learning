@@ -18,12 +18,10 @@ https://spotifysongfeaturesmlanddeeplearning-jsappudcn4wwalt5rz93tmo.streamlit.a
 7. [Hyperparameter Tuning](#hyperparameter-tuning)
 8. [Model Evaluation](#model-evaluation)
 9. [Explainability with SHAP](#explainability-with-shap)
-10. [Streamlit Application](#streamlit-application)
-11. [Project Structure](#project-structure)
-12. [Technologies Used](#technologies-used)
-13. [Deployment](#deployment)
-14. [Key Learnings](#key-learnings)
-15. [Future Improvements](#future-improvements)
+10. [Interactive Prediction](#interactive-prediction)
+11. [Python Tools/Libraries/Modules](#python-tools/libraries/modules)
+12. [Deployment](#deployment)
+13. [Future Enhancements](#future-enhancements)
 
 ---
 
@@ -215,7 +213,7 @@ Users can:
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 - Feature engineering (e.g., genre encoding)
 - Classification version (Hit vs Non-Hit)
